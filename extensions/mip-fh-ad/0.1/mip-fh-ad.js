@@ -13,7 +13,7 @@ define('mip-fh-ad', ['require', 'customElement', 'zepto'], function (require) {
     var customElem = require('customElement').create();
 
     //直投广告请求url
-    var ajaxurl = 'http://partners.fh21.com.cn/partners/showcodejsonp?callback=?';
+    var ajaxurl = 'https://partners.fh21.com.cn/partners/showcodejsonp?callback=?';
 
     //页面广告参数
     var param = $('#adParam');
