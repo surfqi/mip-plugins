@@ -133,13 +133,12 @@ require(['mip-plugindemo/* 你的组件名称，需要更改4 */'], function (pl
 
         二、覆盖操作系统
         * ios6~9
-        * Android 2.3
         * Android 4.0~5.1
     ```
 
 ## 四、测试 OK 了之后需要做什么？
 
-1、书写详细的组件功能说明文档
+1、书写详细的组件功能说明文档(markdown文件)
 	
 	参照：https://www.mipengine.org/doc/4-widget/4-customize-widget/appdl-widget.html
 
